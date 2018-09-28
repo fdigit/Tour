@@ -1,0 +1,168 @@
+<resources>
+    <string name="app_name">TourGuideVersailles</string>
+    <string name="home_header"> Welcome to Versailles Tour Guide !</string>
+    <string name="home_text">Versailles has a rich history!
+        \nThe Palace of Versailles is iconic and attracts numerous visitors from all corners of the globe.
+        \n
+        \nNaturally, you want to see as much as possible in a short space of time. But there\'s little point in hurrying your visit without taking the time to get the most out of your trip.
+        \n
+        \nHere are some tips to help you prepare for your visit so it will always remain an unforgettable experience. </string>
+    <string name="Events">Events and activities</string>
+    <string name="Monuments">Monuments</string>
+    <string name="Parks">Parks and gardens</string>
+    <string name="Restaurants">Restaurants</string>
+    <string name="Chateau_Versailles_Tittle">Chateau de Versailles</string>
+    <string name="Chateau_Versailles_text">
+        Listed as world heritage of humanity for 30 years now, the Palace of Versailles is one of the finest treasures to emerge from the French art of the 17th century.
+        \nA seat of power until 1789, over the centuries the Palace of Versailles has been constantly extended, including the Hall of Mirrors, the State Apartments and the Museum of French History.
+        \nIt all began with a modest château built by Louis XIII for hunting. Louis XIV then went on to select this locality to build the palace we know so well today, a symbol of royal absolutism and the very incarnation of French classical art.
+        \nAmong other things, during the 1670s Louis XIV created the King\’s and the Queen\’s State Apartments. The palace\’s most emblematic feature remains the Hall of Mirrors designed by Mansart, a place to see and to be seen and the ultimate reception venue.
+        \nThe extension work continued in the following century, including the building of the Chapel and the Opera. The Palace today covers 63,154 m2 and includes no fewer than 2,300 rooms.
+        \nAlthough the palace lost its role as an official seat of power in 1789, during the 19th century it embraced a new destiny, becoming the Museum of French History at the instigation of Louis-Philippe, who ascended to the throne in 1830.
+        \nMany of the palace\’s rooms became the home to collections tracing the major events in French history, collections which were added to until the early 20th century.
+    </string>
+    <string name="Domaine_tittle">Domaine de Marie-Antoinette</string>
+    <string name="Domaine_text">
+        Marie-Antoinette\’s estate, brings a touch of intimacy and of the countryside to Versailles, appreciated by leaders from Louis XIV to Charles De Gaulle, not forgetting the enchanting and legendary Queen Marie-Antoinette herself…
+        \nAlongside the Grand Canal, Grand Trianon was the Sun King\'s country house, for those moments when he grew tired of Versailles\’ golden splendour.
+        \nIn this marvellous building with its pink marble architecture designed by Mansart, the King would arrive accompanied by ladies for whom he organised light meals, games and boat trips.
+        \nAfter the revolution, Napoleon and later Louis-Philippe stayed here.
+        \nLater still, Charles De Gaulle made it a reception venue for entertaining visiting foreign heads of state.
+        \nHowever, the very heart of the estate is naturally Petit Trianon, built by Gabriel for King Louis XV and which is remembered above all for Marie-Antoinette:
+        \nMissing the freedom of her childhood, the young queen created a simple and familiar setting here, where she invited her friends, play acted and above all lived free, far away from the constraints of the Royal Court.
+        \nShe was the one who arranged for the planting of the English garden, a fashionable landscaped park dotted with little buildings which were a delight to walk out to, and charming little shelters which have been superbly restored over recent years.
+        \nAs a continuation to this, we find the famous Queen\'s Hamlet which was also designed for her, and where authentic peasants living in attractive rustic homes brought the countryside to her very door.
+    </string>
+    <string name="Academy_tittle">Académie équestre nationale du domaine de Versailles</string>
+    <string name="Academy_text">
+        Established in 2003 by Bartabas at the Grande Ecurie of the Château de Versailles, the National Equestrian Academy of the Versailles Estate is a world-class ballet company based on transmission as well as on the art of representation.
+        \nCreated in 2003 by Bartabas in the Grande Ecurie du Chateau, the National Equestrian Academy of the Versailles Estate is a unique ballet corps in the world.
+        \nBased on the transmission as much as on the art of representation, daily teaching combines dressage of the High School with various disciplines such as artistic fencing, dance, singing or Kyudo - Japanese archery.
+        \nBartabas has seized on this exceptional royal space and offered to some the chance to be naked, to discover, to surpass, and thus, to dig the furrow of an original and original artistic writing .
+        \nIn the Grande Écurie of the Château de Versailles, the Academy presents Les Matinales des Ecuyers, where one meets the intimacy of a working session, and La Voie de l\'Écuyer, a show choreographed by Bartabas and a reflection of this Company school.
+        \nThe Academy also serves original creations in unusual places such as the Grand Palais of Paris, the Abbey of Saint-Ouen in Rouen, the ancient theater of Fourvière, the Riding School of Salzburg ...
+    </string>
+    <string name="Senteur_tittle">La Cour des Senteurs</string>
+    <string name="Senteur_text">
+        Reflecting that distinction, the Cour des Senteurs brings together the rarest fragrances, the traditions, the savoir-faire and the primary materials which make up the world of perfumes.
+        \nA mere 100 metres from the main gates of the Palace of Versailles, it is open to all and incorporates an original concept designed as an olfactory trail enabling visitors to discover the adventure of the greatest perfumers in the Maison des Parfums, an interpretation centre on perfume,
+        a plant walk illustrating in the way of a cabinet of curiosities the mythical materials from which perfume is made and a garden of fragrances featuring the rare natural plant varieties used in perfumes from around the world.
+        Continuing this perambulation through the realms of refinement, the Cour des Senteurs has also been designed as an imaginative pedestrian thoroughfare providing visitors with a direct route to the Salle du Jeu de Paume,
+        the cradle of the founding instrument of French democracy, to the distinctive streets of Versailles\’ oldest district, the Quartier Saint-Louis, and to the Potager du Roi and its thousands of fruit trees which graced the king’s walks and tables.
+        \nThis new place of magic and discovery offers visitors, before or after their visit to the Palace, a series of exceptional historical, poetic and sensorial experiences combining culture and the world of nature in the heart of royal Versailles.
+    </string>
+    <string name="Hotel_tittle">Hôtel de ville de Versailles</string>
+    <string name="Hotel_text">
+        The Versailles City Hall, is a witness of the history of Versailles. This property of a natural daughters of Louis XIV came under Louis XV to the Grand Master of the Royal Household who redesigned and rebuilt in 1900 .
+        \nThe Versailles Hotel de Ville (city hall) consists of two distinct parts: along the rue du Général de Gaulle, facing the palace, sits a low building preceded by a wide staircase.
+        \nThis is the first city hall, established in 1790 in the old hotel de Conti. This property, belonging to one Louis XIV\'s illegitimate daughters, passed under Louis XV to the Grand Master of the king\'s household, who had it refurbished.
+        \nPaneling from this period is preserved in the modern part of the building. The house, facing the avenue de Paris, is an imposing neo-Louis XIII building designed by H. Legrand, dating from 1897-1900.
+    </string>
+    <string name="Jeu_tittle">La Salle du Jeu de Paume</string>
+    <string name="Jeu_text">
+        This sport room built for the court of Louis the 14th is famous for the oath of the Jeu de Paume, which was the founding act of French democracy.
+        \nBuilt in 1686 to meet the needs of the court of Versailles palace, the Royal Tennis court (royal tennis is the ancestor of tennis) was the scene of the Oath of June 20, 1789, which is when 578 deputies of the Estates General (which consisted of 1118)
+        self-proclaimed themselves the National Assembly and swore not to break up before they had given France a constitution.
+        \nThe French Revolution was launched…
+        \nDuring the Revolution, the idea was raised to replace the Royal Tennis court with a commemorative monument, but nothing was done before 1880, when the hall was turned into a museum in preparation for the centenary of that decisive event.
+    </string>
+    <string name="Madame_tittle">Le domaine de madame Elisabeth</string>
+    <string name="Madame_text">
+        The property was acquired by Louis XVI when the couple, who had accumulated important responsibilities at the court, went bankrupt.
+\nThe king then gave it as a gift to his young sister, Madame Elisabeth, in 1783.
+\nShe asked her architect to make changes, but the house, turned into a factory under the Revolution, has since been further modified.
+\nThe estate, which includes a magnificent park, has belonged to the Regional authority of Yvelines since 1983. It regularly holds exhibitions in the adjoining orangery.
+    </string>
+    <string name="Parc_tittle">Le Parc du Château de Versailles</string>
+    <string name="Parc_text">
+        An opulent leafy setting for the Palace of the Sun King: what better way to describe the magnificent gardens designed by Le Nôtre around the Palace of Versailles.
+\nOnce covering some 8,000 hectares, the Palace of Versailles\’ grounds were divided into hunting areas (accounting for most of the land) and decorative gardens.
+The latter are what has become known as French style gardens and remain a reference among 17th-century European gardens.
+Designed around an infinite perspective axis , they include 77 hectares of elegant alleyways lined with marble statues, some of which lead on to superb bosquets (groves).
+\nAs genuine "natural rooms" which can be discovered while exploring the alleyways, the bosquets were designed to provide a fitting setting for royal festivities.
+They are decorated with statues and magnificent fountains, each seeking to outdo the next in spectacular effects.
+\nYou can discover them under optimal conditions during the Grandes Eaux Musicales and the Jardins Musicaux events ("musical fountains" and "musical gardens") in an atmosphere brought to life with baroque music from the days of Louis XIV.
+Make the most of the summer to see the gardens as you\’ve never seen them before during the Grandes Eaux Nocturnes, when the gardens are illuminated by dazzling firework displays at nightfall!
+\nAfter the days of the Sun King, the Versailles gardens were further enhanced through the addition of new kinds of bosquets, which you must see at all costs while you\'re here: the Romantic style is illustrated by the marvellous bosquet des Bains d\’Apollon, created shortly before the revolution.
+\nFor its part, the 21st century has seen two remarkable creations: the extraordinary fountains which operate in time with the music (the Bassin du Miroir), and, the latest, the Bosquet du Théâtre d\’eau designed by L. Benech and JM Othoniel on the site of a now-disappeared 17th-century bosquet.
+    </string>
+    <string name="Suisse_tittle">La Pièce d\'eau des Suisses</string>
+    <string name="Suisse_text">
+Exceptional area for walking : this 13 hectare pool was excavated between 1679 and 1682 by the regiment of Swiss Guards from which it takes its name.
+\nAt the far end of rue de l\’Indépendance Américaine, abutting the Saint Louis district, the Pièce d\'eau des Suisses intended to beautify the southern view of the palace,
+as an extension of the Orangerie, it also allowed the draining of the land for the King\'s Kitchen Garden, created at the same time.
+\A copy of Bernini\'s work representing Louis XIV on horseback is located at the far end of the pool.
+The sculpture, which did not find pleasure with the king, was finally transformed into a hero of antiquity and placed well out of sight of the monarch…
+\nNowadays, surrounded by vast lawns and wide paths planted with superb plane trees, the place is an ideal place to relax.
+    </string>
+    <string name="Potager_tittle">Le Potager du Roi</string>
+    <string name="Potager_text">
+        Louis XIV asked J.-B. de La Quintinye, the gardener, to install a kitchen garden capable of providing for the court in a marsh with the evocative name of "étang puant" (stinking pond).
+\nWork was carried out efficiently between 1678 and 1682: in spite of the poor terrain and still rudimentary resources,
+La Quintinye developed the culture of fresh fruit and vegetables here and was able to provide the king\'s table with asparagus in January and strawberries in March, along with figs and even melons!
+\nIt measures 9 hectares and maintains its original subdivisions, earning it classification as a Historical Monument in 1926.
+\nIts fruit trees, for their part, have been given extremely varied shapes, thanks to the presence of the Ecole Nationale d\’Horticulture between 1873 and 1995, whose know-how carries on today, to the visual and gustatory delight of its visitors…
+students of the Ecole Nationale Supérieure du Paysage now work in the areas bordering the kitchen garden.
+    </string>
+    <string name="chevreloup_tittle">L\'arboretum de Chèvreloup</string>
+    <string name="chevreloup_text">
+        As part of the National Museum of Natural History (MNHN), the Chèvreloup Arboretum , includes major living plant collections, on 205 hectares located north of the National Estate of Versailles.
+\nReal museum of the tree, the Chèvreloup Arboretum brings together more than 2,500 species and varieties of trees from temperate and cold regions of the Northern Hemisphere : Himalayas, Caucasus, China, Japan, North America, Europe ...
+\nLocated 20 minutes from Paris, it offers the public a walk to discover trees in an exceptional environment.
+The trees here are left in their natural harbor and interventions are limited to the minimum required.
+\nA formidable support for nature awareness.
+By its richness and diversity, Chèvreloup is the place where you can understand what biodiversity in its floristic component and broader nature is in its complexity.
+    </string>
+    <string name="balbi_tittle">Parc de la Comtesse de Balbi</string>
+    <string name="balbi_text">
+        Abutting the Potager du Roi, a little farther to the south, there is a pleasant public garden named Parc Balbi.
+\nThis is the garden of the property developed in 1785 by J.-F. Chalgrin for the countess of Balbi, the mistress of the Count of Provence, who was Louis XVI\'s brother.
+\Nothing remains of the buildings, but the park still has its stream, its belvedere and its vast grotto, set in the greenery so characteristic of Eighteenth Century English-style gardens.
+    </string>
+    <string name="Venise_tittle">La Petite Venise</string>
+    <string name="Venise_text">
+        This Italian restaurant is located at the site of former stables, inside a registered historic landmark.
+\nIn summertime, a superb terrace blooms with roses on the palace grounds.
+    </string>
+    <string name="flottille_tittle">La Flottille</string>
+    <string name="flottille_text">
+        On the palace grounds facing Grand Canal, visitors will delight in this brasserie\’s authentic turn-of-the-century decor and expansive shade-filled terrace.
+Tea room and group reservations also offered.
+\nIn a bucolic and historical setting, our team welcomes you every day of the year, from 8 am to the closing of the Park.
+\nA part brasserie for a gourmet break, with dishes of the day and homemade desserts and a restaurant part where the chef puts to the honor its fresh products.
+    </string>
+    <string name="montbauron_tittle">Le Montbauron</string>
+    <string name="montbauron_text">
+        One of the best of Versailles\' night life place. In an Irish pub style, you can eat bistro food and drink beer.
+        \nInterested in playing pool, you are in the right place.
+    </string>
+    <string name="trianon_tittle">Le Trianon Palace</string>
+    <string name="tianon_text">
+        Shades of gray and yellow dominate the tasteful decor at Gordon Ramsay au Trianon (2 Michelin stars), the fine dining establishment at Trianon Palace.
+\nSeated on a plush leather banquette, you\’ll savor a cuisine infused with complex flavors.
+    </string>
+    <string name="musicale_tittle">Les Grandes Eaux Musicales</string>
+    <string name="musicale_text">
+        Discover the groves of Versailles, and the fountains whose jets of water rise and fall in time to the music.
+        \nThe paths stretch in several directions. Whichever you choose, you will be able to admire the Garden\'s many masterpieces.
+        \nKeen gardeners and anyone with time to spare can penetrate as far as the most secret places in the garden.
+    </string>
+    <string name="nocturne_tittle">Les Grandes Eaux Nocturnes</string>
+    <string name="nocturne_text">
+        When the night falls at the rate of baroque music in the garden of the château de Versailles,
+        the visitors discover illuminated groves enhanced by fountains and statues which are another face by night.
+        \nA show in the gardens of Versailles not to be missed !
+    </string>
+    <string name="boat_tittle">Boat ride on the Grand Canal</string>
+    <string name="boat_text">
+        In front of the Palace of Versailles, embark for a refreshing ride in this majestic park.
+        \nRent a small boat and relax on the grand canal!
+    </string>
+    <string name="bartabas_tittle">The show La Voie de l\'écuyer</string>
+    <string name="bartabas_text">
+        Equestrian show choreographed by Bartabas for the equerries of Academy of equestrian arts of Versailles.
+        \nThe show is followed by a free tour of the stables, remarkable for their breadth and nobility of their architecture.
+    </string>
+
+</resources>
+

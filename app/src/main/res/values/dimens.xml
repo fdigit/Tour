@@ -1,0 +1,6 @@
+<resources>
+    <dimen name="home_header">30sp</dimen>
+    <dimen name="home_margin">16dp</dimen>
+    <dimen name="home_padding">5dp</dimen>
+    <dimen name="item_margin">10dp</dimen>
+</resources>
